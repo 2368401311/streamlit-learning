@@ -1,7 +1,7 @@
 # streamlit-learning
 Learn how to use streamlit and combine it with Heroku, and also deploy an app
 
-# Install Streamlit (do mot jump to apply Heroku)
+# Install Streamlit (do not jump to apply Heroku)
 Some potiental problem
 1. the cmd could not get streamlit, even if install
 2. In Anaconda, the install guid still not working
